@@ -9,5 +9,6 @@
     <Grid>
         <TextBlock Text="GWin"/>
         <Button Content="button"/>
+        <Label Content="hello"/>
     </Grid>
 </Window>
