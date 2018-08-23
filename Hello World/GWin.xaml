@@ -10,5 +10,6 @@
         <TextBlock Text="GWin"/>
         <Button Content="button"/>
         <Label Content="hello"/>
+        <ListBox Name="list"/>
     </Grid>
 </Window>
